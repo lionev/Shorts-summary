@@ -4,7 +4,11 @@
 
 ## 🦾 Tecnologias
 
-- @xenova/transformers
+- ViteJS
+- NodeJS
+- ReactJS
+- JavaScript
+- xenova
 - axios
 - cors
 - express
