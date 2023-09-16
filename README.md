@@ -20,7 +20,7 @@
 
 ## ⚙️ Sobre o projeto
 
-- Foi feita uma aplicação no intuito de treinar as habilidades em um projeto novo junto as aulas da Rocketseat, sendo assim, produzindo uma aplicação de pomodoro
+- Foi feita uma aplicação junto a NLW AI da RocketSeat que visa usar o Xenova de inteligencia artificial para baixar videos dos shorts converter para audio e fazer a transcrição do video e também resumo do vídeo, sendo assim conseguindo fazer resumo de todos os shorts desejados
 
 ## ❤️ Contato
 
