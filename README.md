@@ -1,21 +1,18 @@
-# Ignite-Timer
+# Shorts-Summary
 
 ![preview](./.github/home.png)
 
 ## 🦾 Tecnologias
 
-- ReactJs com Typescript
-- Immer
-- Eslint
-- React-Router-dom
-- Date-fns
-- zod
-- ViteJS
-- styled-components
-- phospor-react
-- Reducer
-- Context
-- Git e Github
+- @xenova/transformers
+- axios
+- cors
+- express
+- ffmpeg-static
+- fluent-ffmpeg
+- node-wav
+- unit-tests
+- ytdl-core
 
 ## ⚙️ Sobre o projeto
 
